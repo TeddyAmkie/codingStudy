@@ -1,0 +1,7 @@
+[submodule "Projects/Memory-Game"]
+	path = Projects/Memory-Game
+	url = https://github.com/TeddyAmkie/Memory-Game.git
+	branch = master
+[submodule "Projects/Meme-Gen"]
+	path = Projects/Meme-Gen
+	url = https://github.com/TeddyAmkie/Meme-Gen.git
